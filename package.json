@@ -1,0 +1,19 @@
+{
+  "name": "maria",
+  "version": "1.0.0",
+  "description": "meu primeiro app nodejs",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/1mariacunha/aula4.git"
+  },
+  "author": "maria eduarda cunha",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/1mariacunha/aula4/issues"
+  },
+  "homepage": "https://github.com/1mariacunha/aula4#readme"
+}
